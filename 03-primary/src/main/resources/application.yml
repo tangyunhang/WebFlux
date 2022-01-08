@@ -1,0 +1,4 @@
+
+logging:
+  pattern:
+    console: level - %level %d %msg%n
